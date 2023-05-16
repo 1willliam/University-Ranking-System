@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "bit": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "new": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "xmemory": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    }
+}
